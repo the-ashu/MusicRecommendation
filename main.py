@@ -1,0 +1,1 @@
+from fook import similarity_recommender
